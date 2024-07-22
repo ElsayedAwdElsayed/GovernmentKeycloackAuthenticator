@@ -1,4 +1,4 @@
-package dasniko.keycloak.authenticator;
+package com.taqeem.authenticator;
 
 import jakarta.ws.rs.core.Response;
 import org.keycloak.authentication.AuthenticationFlowContext;

@@ -1,4 +1,4 @@
-package dasniko.keycloak.authenticator;
+package com.taqeem.authenticator;
 
 import lombok.experimental.UtilityClass;
 

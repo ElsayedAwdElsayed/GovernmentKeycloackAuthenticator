@@ -1,4 +1,4 @@
-package dasniko.keycloak.authenticator;
+package com.taqeem.authenticator;
 
 import com.google.auto.service.AutoService;
 import org.keycloak.Config;
